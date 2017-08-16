@@ -26,6 +26,8 @@ To present your code:
 4. Commit (`git commit`) and Push (`git push`) your code.
 5. Submit your code to us via a [Pull Request](https://help.github.com/articles/using-pull-requests/).
 
+The Council convenes in the whee hours of the week (Monday) to scour all attempts to deliver the ring for signs of heroism, bravery and valor. A rider with their response will be dispatched to you forthwith.
+
 The wizards have provided instructions from their vast store of ancient knowledge on how to overcome each of these deadly obstacles. Pedil edhellen? Galu! 
 
 Challenge #1: The Sage of Fizz Buzz
